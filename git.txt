@@ -3,3 +3,4 @@ git reset --hard HEAD^  in order back
 git reset --hard HEAD^^  in order back back
 git reflog in order to look up history
 git checkout -- filename in order to clear the change in work erea
+git reset HEAD git.txt in order to clear change after add
