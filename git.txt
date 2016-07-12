@@ -18,3 +18,5 @@ git stash when you leave without git commit ,this change will disappear,you shou
 git stash apply to showup and finally, you can use git stash drop to delete this
 
 or use git stash pop to showup and delete
+
+git stash list to look up
