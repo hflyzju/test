@@ -5,3 +5,7 @@ git reflog in order to look up history
 git checkout -- filename in order to clear the change in work erea
 git reset HEAD git.txt in order to clear change after add
 new key
+
+git branch newbranch_name
+git checkout newbranch_name
+or git checkout -b newbranch_name
