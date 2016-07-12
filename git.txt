@@ -9,3 +9,5 @@ new key
 git branch newbranch_name
 git checkout newbranch_name
 or git checkout -b newbranch_name
+
+git branch -d branch_name
