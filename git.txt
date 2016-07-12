@@ -11,3 +11,5 @@ git checkout newbranch_name
 or git checkout -b newbranch_name
 
 git branch -d branch_name
+
+git merge <name>
