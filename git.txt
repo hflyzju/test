@@ -13,3 +13,5 @@ or git checkout -b newbranch_name
 git branch -d branch_name
 
 git merge <name>
+
+git stash
