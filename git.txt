@@ -14,4 +14,7 @@ git branch -d branch_name
 
 git merge <name>
 
-git stash  in order to keep when you not want to commit
+git stash when you leave without git commit ,this change will disappear,you should use git stach to keep and
+git stash apply to showup and finally, you can use git stash drop to delete this
+
+or use git stash pop to showup and delete
