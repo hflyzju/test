@@ -2,3 +2,4 @@ git reset --hard ç[number]  in order back to old or new
 git reset --hard HEAD^  in order back
 git reset --hard HEAD^^  in order back back
 git reflog in order to look up history
+git checkout -- filename in order to clear the change in work erea
